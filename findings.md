@@ -6,7 +6,7 @@
 - **KPI Widgets:** Focus on fuel efficiency, idle time, and asset utilization.
 - **Role-Based Views:** Tailor interface for Manager, Dispatcher, Safety Officer, and Financial Analyst as requested.
 
-### Library Selection
+## Library Selection
 - **ApexCharts:** Best for visual appeal and interactive KPIs. Suitable for the "wow" factor.
 - **ReactCharts:** Good for complex distribution datasets.
 - **TailwindCSS:** Will be used for rapid, responsive layout development.

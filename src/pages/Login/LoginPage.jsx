@@ -18,7 +18,7 @@ const LoginPage = () => {
         e.preventDefault();
         setError('');
         setIsLoading(true);
-
+ 
         let result;
         if (isRegister) {
             result = await register(email, password, name, role);
